@@ -1,0 +1,133 @@
+company_id,company_name,name,email,department,role,influence_score,influence_stars,status,last_touchpoint,notes
+canva,Canva,Melanie Perkins,m.perkins@canva.com,Office of the CEO,Executive Sponsor,98.20,5,CH,08/28/26,CEO and co-founder. Full champion. Actively promotes Claude in company all-hands.
+canva,Canva,Cameron Adams,c.adams@canva.com,Product & Design,Executive Sponsor,97.45,5,CH,08/15/26,CPO and co-founder. Leading AI integration into product roadmap.
+canva,Canva,Don Phan,d.phan@canva.com,Engineering,Executive Sponsor / CTO,96.89,5,TR,07/30/26,CTO. In Train the Trainer cohort 1. Championing Claude for engineering workflows.
+canva,Canva,Sarah Mitchell,s.mitchell@canva.com,People & Culture,Enablement Lead,96.44,5,CH,08/20/26,Primary Anthropic point of contact. Owns rollout strategy and success metrics.
+canva,Canva,James Okafor,j.okafor@canva.com,Transformation Office,Champions Program Lead,95.83,5,CH,08/10/26,Running internal champions network. 12 active champions across 8 departments.
+canva,Canva,Rachel Kim,r.kim@canva.com,Learning & Development,Train the Trainer Coordinator,95.21,4,TR,07/25/26,Coordinating TtT cohort 2 launch for Oct 2026. 8 certified trainers to date.
+canva,Canva,Alex Torres,a.torres@canva.com,Transformation Office,Center of Excellence Lead,94.87,4,TR,08/05/26,Running CoE. Monthly AI showcase events. Owns best-practice library.
+canva,Canva,Nina Bhatt,n.bhatt@canva.com,HR & People,Change Management Lead,94.33,4,TR,07/18/26,Driving adoption culture. Owns change communications and resistance mitigation.
+canva,Canva,Wei Zhang,w.zhang@canva.com,Engineering,Dept. Champion — Engineering,93.80,4,CH,08/22/26,Leads engineering guild. Claude for code review is top use case in this dept.
+canva,Canva,Priya Sharma,p.sharma@canva.com,Product Design,Dept. Champion — Design,93.44,4,TR,07/12/26,Piloting Claude for design brief generation and user research synthesis.
+canva,Canva,Marcus Johnson,m.johnson@canva.com,Growth Marketing,Dept. Champion — Marketing,92.99,4,CH,08/01/26,Owns marketing use cases. Claude for campaign copy is highest-value workflow.
+canva,Canva,Isabella Cruz,i.cruz@canva.com,Customer Success,Dept. Champion — Customer Success,92.55,4,TR,07/28/26,Trialing Claude for response drafting and escalation summarization.
+canva,Canva,Tyler Brooks,t.brooks@canva.com,Data Science,Dept. Champion — Data,91.88,4,CH,08/18/26,Using Claude for data analysis narrative and report generation.
+canva,Canva,Liam O'Brien,l.obrien@canva.com,Legal & Compliance,IT/Technical Lead,91.44,4,TR,07/05/26,Managing SSO integration and security configuration. Compliance sign-off complete.
+canva,Canva,Emma Watson,e.watson@canva.com,Finance,Dept. Champion — Finance,91.00,3,EN,06/30/26,Early enrolled. Finance workflows in evaluation. Low current engagement — follow up.
+canva,Canva,Sofia Andersen,s.andersen@canva.com,Brand & Communications,AI Steering Committee,90.55,3,EN,06/15/26,Sits on internal AI governance committee. Needs Champions Program invite.
+canva,Canva,Raj Patel,r.patel@canva.com,Infrastructure,Security & Compliance Lead,90.11,3,TR,07/22/26,Security review complete. Monitoring data governance policies for Claude usage.
+canva,Canva,Diana Chen,d.chen@canva.com,UX Research,Dept. Champion — Research,89.67,3,CH,08/08/26,Driving Claude for user interview synthesis and research reporting.
+canva,Canva,Kevin Park,k.park@canva.com,Sales Operations,Operations Champion,89.23,3,EN,06/20/26,Exploring Claude for CRM note summarization and pipeline reporting.
+canva,Canva,Amy Liu,a.liu@canva.com,Enterprise IT,IT Administrator,88.79,3,EN,05/30/26,Managing seat provisioning and access. Operational contact for IT requests.
+canva,Canva,Chris Nakamura,c.nakamura@canva.com,Product Management,AI Product Specialist,88.35,3,TR,07/15/26,Building internal AI product spec templates using Claude.
+canva,Canva,Jessica Moore,j.moore@canva.com,Talent Acquisition,HR Champion,87.91,3,EN,05/14/26,Piloting Claude for JD writing and candidate screening summaries.
+canva,Canva,Daniel Santos,d.santos@canva.com,Business Intelligence,BI & Analytics Lead,87.47,3,EN,04/28/26,Evaluating Claude for BI narrative automation. Low engagement — schedule check-in.
+canva,Canva,Mia Thompson,m.thompson@canva.com,Office of the COO,Executive Program Liaison,87.03,3,EN,04/10/26,Manages exec calendar for Claude activities. Coordinate QBR through her.
+gitlab,GitLab,Sid Sijbrandij,s.sijbrandij@gitlab.com,Office of the CEO,Executive Sponsor / CEO,97.90,5,CH,08/25/26,CEO. Vocal public champion. Named Claude in GitLab earnings call as key productivity driver.
+gitlab,GitLab,Ashley Kramer,a.kramer@gitlab.com,Marketing & Strategy,Executive Sponsor / CMO,97.12,5,CH,08/12/26,CMO and CSO. Leading AI strategy. Owns external messaging on Claude partnership.
+gitlab,GitLab,Sabrina Farmer,s.farmer@gitlab.com,Engineering,Executive Sponsor / CTO,96.55,5,TR,07/28/26,CTO. Actively in TtT program. Engineering adoption is the flagship success story.
+gitlab,GitLab,David DeSanto,d.desanto@gitlab.com,Product,Executive Sponsor / CPO,96.03,5,EN,06/22/26,CPO. Enrolled but low engagement relative to role. Prioritize before Q4 QBR.
+gitlab,GitLab,Robin Schulman,r.schulman@gitlab.com,Legal & People,Executive Sponsor,95.44,5,EN,06/08/26,Chief Legal & People Officer. Enrolled. Focused on policy and acceptable use.
+gitlab,GitLab,Kyle Yentsch,k.yentsch@gitlab.com,Transformation Office,Enablement Lead,94.88,4,TR,08/18/26,Day-to-day Anthropic point of contact. Owns deployment schedule and success metrics.
+gitlab,GitLab,Jordan Lee,j.lee@gitlab.com,AI Adoption,Champions Program Lead,94.32,4,CH,08/05/26,Running GitLab's internal champions program. Expanded from 8 to 15 champions in 90 days.
+gitlab,GitLab,Taylor Morris,t.morris@gitlab.com,Learning & Development,Train the Trainer Lead,93.76,4,TR,07/22/26,Leading TtT. 9 certified trainers. Planning cohort 3 for Q4.
+gitlab,GitLab,Sam Rivera,s.rivera@gitlab.com,Infrastructure,IT/Technical Lead,93.20,4,TR,07/08/26,Manages API integration and developer tooling. Main technical escalation contact.
+gitlab,GitLab,Morgan Zhang,m.zhang@gitlab.com,Change Management,Change Management Lead,92.64,4,EN,06/15/26,Change comms and adoption culture. Enrolled — re-engage as expansion begins.
+gitlab,GitLab,Casey Kim,c.kim@gitlab.com,Engineering Platform,Dept. Champion — Eng. Platform,92.08,4,CH,08/28/26,Leads engineering platform team's Claude adoption. Code review and CI use cases.
+gitlab,GitLab,Alex Park,a.park@gitlab.com,Developer Experience,Dept. Champion — DevEx,91.52,4,TR,07/15/26,Driving Claude into developer onboarding workflows.
+gitlab,GitLab,Jamie Torres,j.torres@gitlab.com,Security,Dept. Champion — Security,90.96,3,TR,07/01/26,Security use cases: threat report drafting and vulnerability summarization.
+gitlab,GitLab,Ryan Patel,r.patel@gitlab.com,Product Design,Dept. Champion — Design,90.40,3,EN,06/05/26,Enrolled. Slow to engage. Identify product design use case to increase activation.
+gitlab,GitLab,Avery Chen,a.chen@gitlab.com,Customer Success,Dept. Champion — Customer Success,89.84,3,CH,08/08/26,CS team using Claude for customer health summaries and QBR prep.
+gitlab,GitLab,Blake Wilson,b.wilson@gitlab.com,Data & Analytics,BI & Analytics Lead,89.28,3,EN,05/20/26,Analytics team enrolled. Slow start — schedule use-case session for Q4.
+gitlab,GitLab,Drew Martinez,d.martinez@gitlab.com,Finance,Finance Champion,88.72,3,EN,05/06/26,Finance enrolled. Primary use case is budget narrative and board deck prep.
+gitlab,GitLab,Quinn Johnson,q.johnson@gitlab.com,People Operations,HR Champion,88.16,3,EN,04/22/26,HR enrolled. Exploring Claude for performance review drafting.
+gitlab,GitLab,Sage Nguyen,s.nguyen@gitlab.com,Legal,Compliance Lead,87.60,3,EN,04/08/26,Monitors legal AI usage policies. Low engagement — ensure policy clarity is not a blocker.
+quantium,Quantium,Adam Driussi,a.driussi@quantium.com,Office of the CEO,Executive Sponsor / CEO,97.60,5,CH,08/22/26,CEO. Full champion. Frequently cites Claude adoption in investor and client communications.
+quantium,Quantium,Justin Sherburn,j.sherburn@quantium.com,Technology,Executive Sponsor / CTO,96.80,5,CH,08/08/26,CTO. Driving API integration across data products. Key reference contact for tech buyers.
+quantium,Quantium,Lauren Solomon,l.solomon@quantium.com,Operations,Executive Sponsor / COO,96.00,5,EN,07/18/26,COO. Enrolled. Needs re-engagement — schedule 1:1 before next QBR.
+quantium,Quantium,Michael Noud,m.noud@quantium.com,Data Science,Executive Sponsor / CDO,95.20,5,TR,07/05/26,CDO. In TtT program. Owns data science adoption which is the leading use case.
+quantium,Quantium,Fiona Quinn,f.quinn@quantium.com,People & Culture,Executive Sponsor / CPO,94.40,5,EN,06/25/26,CPO. Enrolled. Exploring Claude for performance cycle and talent analytics.
+quantium,Quantium,Oliver Tran,o.tran@quantium.com,AI Adoption,Enablement Lead,93.60,4,TR,08/15/26,Primary Anthropic contact. Manages rollout calendar and success metrics reporting.
+quantium,Quantium,Natalie Burns,n.burns@quantium.com,Transformation,Champions Program Lead,92.80,4,CH,08/01/26,Champions network growing. 18 active champions. Monthly showcase is highest-attended internal event.
+quantium,Quantium,Henry Walsh,h.walsh@quantium.com,Learning & Development,Train the Trainer Lead,92.00,4,TR,07/20/26,11 certified trainers. Planning specialist track for data scientists in Q4.
+quantium,Quantium,Sophia Chen,s.chen@quantium.com,Infrastructure,IT/Technical Lead,91.20,4,TR,07/08/26,Managing API keys and security controls. Strong technical partner.
+quantium,Quantium,Marcus Williams,m.williams@quantium.com,Change Management,Change Management Lead,90.40,4,EN,06/12/26,Change communications and culture program. Enrolled — low current touchpoints.
+quantium,Quantium,Chloe Davis,c.davis@quantium.com,AI Centre of Excellence,Center of Excellence Lead,89.60,4,CH,08/18/26,Runs the CoE. Monthly best-practice sessions with 80+ attendees. Model for other accounts.
+quantium,Quantium,Liam O'Connor,l.oconnor@quantium.com,Analytics,Dept. Champion — Analytics,88.80,4,CH,08/25/26,Analytics team at 95% adoption. Flagship department for the account.
+quantium,Quantium,Emma Reynolds,e.reynolds@quantium.com,Data Engineering,Dept. Champion — Data Engineering,88.00,3,TR,07/28/26,Data engineering team using Claude for pipeline documentation and SQL generation.
+quantium,Quantium,Noah Thompson,n.thompson@quantium.com,Client Services,Dept. Champion — Client Services,87.20,3,TR,07/15/26,Client-facing use cases: proposal drafting and client report summarization.
+quantium,Quantium,Ava Jackson,a.jackson@quantium.com,Strategy & Growth,Dept. Champion — Strategy,86.40,3,EN,06/28/26,Strategy team enrolled. Use cases in early evaluation. Schedule workshop.
+quantium,Quantium,Isabella White,i.white@quantium.com,Finance & Operations,Finance Champion,85.60,3,EN,06/10/26,Finance team enrolled. Exploring Claude for financial narrative and model commentary.
+quantium,Quantium,Ethan Brown,e.brown@quantium.com,Product & Innovation,Innovation Champion,84.80,3,CH,08/05/26,Running internal Claude hackathon program. Strong grassroots energy.
+quantium,Quantium,Mia Martinez,m.martinez@quantium.com,Marketing,Marketing Champion,84.00,3,TR,07/02/26,Marketing team in TtT. Content and thought leadership generation is primary use case.
+quantium,Quantium,Jacob Anderson,j.anderson@quantium.com,Technology Risk,Security & Risk Lead,83.20,3,EN,05/18/26,Monitors AI risk and data governance. Key approval stakeholder for new use cases.
+quantium,Quantium,Charlotte Wilson,c.wilson@quantium.com,HR Technology,HR Systems Lead,82.40,3,EN,05/04/26,HR tech team enrolled. Exploring integration with HRIS for performance workflows.
+quantium,Quantium,William Garcia,w.garcia@quantium.com,Operations Technology,Operations IT Lead,81.60,3,EN,04/20/26,IT operations enrolled. Manages seat provisioning and access control.
+stripe,Stripe,Patrick Collison,p.collison@stripe.com,Office of the CEO,Executive Sponsor / CEO,97.00,5,CH,08/20/26,CEO. Public advocate for AI at Stripe. Named Claude in engineering blog post.
+stripe,Stripe,John Collison,j.collison@stripe.com,Engineering,Executive Sponsor / President,96.50,5,CH,08/08/26,President. Technical champion. API team adoption is directly attributable to his advocacy.
+stripe,Stripe,Will Gaybrick,w.gaybrick@stripe.com,Product & Design,Executive Sponsor / CPO,95.80,5,EN,06/15/26,CPO. Enrolled. Low engagement in recent quarter — prioritize before renewal.
+stripe,Stripe,Elena Rodriguez,e.rodriguez@stripe.com,Transformation,Enablement Lead,93.20,4,TR,08/05/26,Day-to-day partner. Owns expansion strategy into non-engineering teams.
+stripe,Stripe,Kai Watanabe,k.watanabe@stripe.com,Learning & Development,Train the Trainer Coordinator,91.50,4,TR,07/28/26,TtT program lead. 7 certified trainers. Q4 goal is business team cohort.
+notion,Notion,Ivan Zhao,i.zhao@notion.so,Office of the CEO,Executive Sponsor / CEO,96.20,5,CH,08/15/26,CEO. Personally champions Claude. Uses it daily for product thinking and writing.
+notion,Notion,Akshay Kothari,a.kothari@notion.so,Product,Executive Sponsor / COO,94.80,5,TR,08/01/26,COO. In TtT. Strong internal communicator — key ally for expansion.
+notion,Notion,Priya Sandhu,p.sandhu@notion.so,People & Culture,Enablement Lead,92.80,4,TR,07/20/26,Primary contact. Manages all Claude programming and champion activities.
+notion,Notion,Leo Park,l.park@notion.so,Product,Champions Program Lead,90.50,4,CH,08/10/26,Product team champion network leads. 9 champions across product and design.
+notion,Notion,Sara Kim,s.kim@notion.so,Engineering,IT/Technical Lead,88.20,3,TR,07/05/26,Managing API integration and SSO. Technical escalation contact.
+sfdc,Salesforce,Marc Benioff,m.benioff@salesforce.com,Office of the CEO,Executive Sponsor / CEO,97.50,5,CH,08/22/26,CEO. Publicly supportive. Mentioned Claude partnership at Dreamforce 2025.
+sfdc,Salesforce,Clara Shih,c.shih@salesforce.com,AI & Emerging Tech,Executive Sponsor,96.10,5,CH,08/10/26,CEO of Salesforce AI. Owns all AI strategy. Critical relationship for expansion.
+sfdc,Salesforce,Nina Torres,n.torres@salesforce.com,Transformation,Enablement Lead,93.00,4,TR,08/05/26,Day-to-day contact. Managing 8500-seat rollout across 15 business units.
+sfdc,Salesforce,Danny Park,d.park@salesforce.com,Learning & Development,Train the Trainer Lead,90.80,4,TR,07/18/26,TtT program running. 6 certified trainers. Scale target is 20 by year end.
+sfdc,Salesforce,Sofia Reyes,s.reyes@salesforce.com,Change Management,Change Management Lead,88.50,3,EN,06/30/26,Change comms program. Enrolled — re-engage to support scale into non-technical teams.
+wday,Workday,Carl Eschenbach,c.eschenbach@workday.com,Office of the CEO,Executive Sponsor / CEO,96.50,5,CH,08/12/26,CEO. Supportive but disengaged in Q3. Schedule EBR to re-anchor on goals.
+wday,Workday,Tom Carter,t.carter@workday.com,Technology,Executive Sponsor / CTO,95.00,5,TR,07/25/26,CTO. In TtT cohort 1. Engineering teams have highest adoption in account.
+wday,Workday,Maya Johnson,m.johnson@workday.com,AI Adoption,Enablement Lead,91.50,4,TR,08/08/26,Enablement Lead. Working to re-engage exec team after slower-than-expected Q2 adoption.
+wday,Workday,Chris Wu,c.wu@workday.com,Learning & Development,Champions Program Lead,89.20,3,EN,07/05/26,Champions program in early stages. Only 8 active. Target 20 by end of Acceleration phase.
+now,ServiceNow,Bill McDermott,b.mcdermott@servicenow.com,Office of the CEO,Executive Sponsor / CEO,97.00,5,CH,08/18/26,CEO. Full champion. Featured ServiceNow + Claude workflow in Knowledge 2026 keynote.
+now,ServiceNow,Abhijit Kakhandiki,a.kakhandiki@servicenow.com,AI & Innovation,Executive Sponsor,95.50,5,TR,08/05/26,President of Products & Engineering. Owns AI integration roadmap. Key expansion contact.
+now,ServiceNow,Rachel Moore,r.moore@servicenow.com,Transformation,Enablement Lead,92.00,4,TR,07/22/26,Enablement Lead. Focused on expanding Claude beyond IT to business stakeholders.
+now,ServiceNow,Devon Cruz,d.cruz@servicenow.com,IT Operations,IT/Technical Lead,89.50,3,EN,07/08/26,IT Ops team has highest adoption. Technical lead for integration. Enrolled.
+dbrx,Databricks,Ali Ghodsi,a.ghodsi@databricks.com,Office of the CEO,Executive Sponsor / CEO,96.80,5,CH,08/25/26,CEO. Deep AI advocate. Actively using Claude for engineering and leadership workflows.
+dbrx,Databricks,Naveen Rao,n.rao@databricks.com,AI,Executive Sponsor,95.20,5,TR,08/10/26,SVP AI. Technical champion. Owns API adoption across data engineering teams.
+dbrx,Databricks,Kim Chen,k.chen@databricks.com,AI Adoption,Enablement Lead,91.80,4,TR,07/30/26,Enablement Lead. Bridging API adoption to Claude.ai Work for non-technical business users.
+dbrx,Databricks,Alex Novak,a.novak@databricks.com,Engineering,IT/Technical Lead,89.00,3,EN,07/15/26,Engineering IT lead. Managing API configuration and developer access.
+docu,DocuSign,Allan Thygesen,a.thygesen@docusign.com,Office of the CEO,Executive Sponsor / CEO,95.80,5,CH,08/15/26,CEO. Champion. Sees Claude as core to DocuSign's AI-forward positioning.
+docu,DocuSign,Sasan Goodarzi,s.goodarzi@docusign.com,Technology,Executive Sponsor / CTO,94.20,4,EN,07/20/26,CTO. Enrolled. Lower engagement than expected — schedule 1:1 to identify blockers.
+docu,DocuSign,Maria Suarez,m.suarez@docusign.com,Transformation,Enablement Lead,90.50,4,TR,08/01/26,Enablement Lead. Legal team is core user. Building plan to activate sales and ops.
+docu,DocuSign,James Liu,j.liu@docusign.com,Legal Technology,Champions Program Lead,88.20,3,TR,07/10/26,Legal tech champion. Building internal use-case playbook for contract review workflows.
+zend,Zendesk,Tom Eggemeier,t.eggemeier@zendesk.com,Office of the CEO,Executive Sponsor / CEO,95.00,5,CH,08/10/26,CEO. Champion. CX use case for Claude is central to Zendesk's own AI narrative.
+zend,Zendesk,Shawna Wolverton,s.wolverton@zendesk.com,Product,Executive Sponsor,93.50,4,EN,07/25/26,EVP Product. Enrolled. Needs re-engagement — schedule product use-case workshop.
+zend,Zendesk,Dana Kim,d.kim@zendesk.com,Customer Experience,Enablement Lead,90.20,4,TR,08/05/26,Enablement Lead. CX team is primary adopter. Expanding to engineering in Q4.
+zend,Zendesk,Ryan Patel,r.patel@zendesk.com,AI & Automation,Champions Program Lead,87.80,3,CH,07/18/26,Champions program running across CX and support teams. 7 active champions.
+hubs,HubSpot,Yamini Rangan,y.rangan@hubspot.com,Office of the CEO,Executive Sponsor / CEO,95.50,5,CH,08/20/26,CEO. Full champion. Claude for content creation cited in HubSpot's AI marketing strategy.
+hubs,HubSpot,Dharmesh Shah,d.shah@hubspot.com,Engineering,Executive Sponsor / CTO,94.00,4,TR,07/30/26,CTO and co-founder. In TtT. Engineering team has second-highest adoption.
+hubs,HubSpot,Priya Nair,p.nair@hubspot.com,Marketing,Enablement Lead,89.80,3,TR,08/08/26,Enablement Lead. Marketing team is the primary use case driver — content and campaigns.
+figma,Figma,Dylan Field,d.field@figma.com,Office of the CEO,Executive Sponsor / CEO,96.00,5,CH,08/18/26,CEO. Champion. Deeply embedded in product + design culture which drives adoption.
+figma,Figma,Kris Rasmussen,k.rasmussen@figma.com,Engineering,Executive Sponsor / CTO,94.50,4,TR,08/05/26,CTO. In TtT. Engineering team uses Claude for code review and documentation.
+figma,Figma,Jordan Lee,j.lee@figma.com,Transformation,Enablement Lead,90.00,4,TR,07/22/26,Enablement Lead. Managing CoE and champion network across product and design teams.
+figma,Figma,Sam Torres,s.torres@figma.com,Design,Champions Program Lead,88.00,3,CH,08/10/26,Champions Program Lead. Design-first culture is driving creative use cases for Claude.
+atls,Atlassian,Scott Farquhar,s.farquhar@atlassian.com,Office of the CEO,Executive Sponsor / CEO,96.20,5,CH,08/22/26,CEO. Champion. Jira + Claude integration is the flagship enterprise use case.
+atls,Atlassian,Rajeev Rajan,r.rajan@atlassian.com,Engineering,Executive Sponsor / CTO,94.80,5,TR,08/08/26,CTO. In TtT. Engineering adoption is highest in account at 72% of eng team.
+atls,Atlassian,Asha Patel,a.patel@atlassian.com,Transformation,Enablement Lead,90.80,4,TR,07/28/26,Enablement Lead. Building expansion plan for Confluence and Trello teams.
+atls,Atlassian,Kevin Moore,k.moore@atlassian.com,Developer Experience,Champions Program Lead,88.50,3,TR,07/15/26,Champions Program. Developer advocacy is the model — expanding to ops teams.
+asana,Asana,Dustin Moskovitz,d.moskovitz@asana.com,Office of the CEO,Executive Sponsor / CEO,95.00,5,CH,08/15/26,CEO. Champion. Personally using Claude for leadership communication and strategy docs.
+asana,Asana,Anne Raimondi,a.raimondi@asana.com,Operations,Executive Sponsor / COO,93.20,4,EN,07/22/26,COO. Enrolled. Ops team is core user group. Needs push to involve sales and marketing.
+asana,Asana,Tomas Rivera,t.rivera@asana.com,Transformation,Enablement Lead,89.50,3,TR,08/01/26,Enablement Lead. Focus on activating non-ops teams to hit Acceleration-phase targets.
+nlsn,Nielsen,David Kenny,d.kenny@nielsen.com,Office of the CEO,Executive Sponsor / CEO,94.50,5,CH,08/10/26,CEO. Signed on as executive sponsor. Champions Program not yet launched — key next step.
+nlsn,Nielsen,Sarah Mitchell,s.mitchell@nielsen.com,Technology,IT/Technical Lead,90.00,4,TR,07/20/26,IT Lead. Managing onboarding and provisioning. SSO and security review complete.
+nlsn,Nielsen,James Park,j.park@nielsen.com,Research,Champions Program Lead,87.00,3,EN,07/05/26,Identified as first champion lead. Champions Program kickoff planned for Q4 2026.
+grtn,Gartner,Gene Hall,g.hall@gartner.com,Office of the CEO,Executive Sponsor / CEO,93.80,5,CH,08/05/26,CEO. Champion. Research team adoption is driving strong early NPS.
+grtn,Gartner,Rita Sallam,r.sallam@gartner.com,Research,Executive Sponsor,92.00,4,EN,07/15/26,Distinguished VP Research. Enrolled. Key voice for AI adoption in analyst community.
+grtn,Gartner,Tom Bradley,t.bradley@gartner.com,Transformation,Enablement Lead,88.50,3,TR,07/28/26,Enablement Lead. Owns rollout and first champions cohort launch in Q4.
+grtn,Gartner,Dana Wu,d.wu@gartner.com,Technology,IT/Technical Lead,86.00,3,EN,07/01/26,IT Lead. Managing seat provisioning and security configuration.
+mck,McKinsey & Co.,Bob Sternfels,b.sternfels@mckinsey.com,Office of the CEO,Executive Sponsor / CEO,93.50,5,CH,07/30/26,Global Managing Partner. Executive sponsor. IT security review blocker now resolved.
+mck,McKinsey & Co.,Liz Hilton Segel,l.segel@mckinsey.com,Client Services,Executive Sponsor,91.80,4,EN,07/10/26,Chief Client Officer. Enrolled. Key sponsor for expanding Claude into client-facing work.
+mck,McKinsey & Co.,Michael Park,m.park@mckinsey.com,Transformation,Enablement Lead,87.50,3,TR,07/22/26,Enablement Lead. First priority: identify 5 champions across practice areas. Target Q4.
+dtt,Deloitte,Joe Ucuzoglu,j.ucuzoglu@deloitte.com,Office of the CEO,Executive Sponsor / CEO,93.20,5,CH,07/25/26,Global CEO. Sponsor. Compliance review in progress — expected cleared by Sep 2026.
+dtt,Deloitte,Janet Foutty,j.foutty@deloitte.com,Executive,Executive Sponsor,91.50,4,EN,07/08/26,US Executive Chair. Enrolled. Senior ally for US rollout once compliance cleared.
+dtt,Deloitte,Tara Brady,t.brady@deloitte.com,Transformation,Enablement Lead,88.00,4,TR,08/01/26,Enablement Lead. Managing compliance coordination and first-wave rollout plan.
+dtt,Deloitte,Krish Shankar,k.shankar@deloitte.com,Technology,IT/Technical Lead,85.80,3,TR,07/15/26,IT Lead. Overseeing security architecture review for Claude deployment.
+dtt,Deloitte,Maria Conrado,m.conrado@deloitte.com,Learning & Development,Champions Program Lead,84.20,3,EN,06/28/26,Identified as Champions Program Lead. Launch gated on compliance clearance.
+accn,Accenture,Julie Sweet,j.sweet@accenture.com,Office of the CEO,Executive Sponsor / CEO,94.00,5,CH,08/08/26,CEO. Champion. API deployment through tech team is strong — business engagement is gap.
+accn,Accenture,Paul Daugherty,p.daugherty@accenture.com,Technology,Executive Sponsor / CTO,92.50,4,TR,07/25/26,CTO. In TtT. Owns API-first deployment across technology practice.
+accn,Accenture,Kim Brown,k.brown@accenture.com,Transformation,Enablement Lead,88.20,3,TR,07/10/26,Enablement Lead. Building bridge from tech to business stakeholders. Critical Q4 priority.
+accn,Accenture,Marcus Lee,m.lee@accenture.com,Technology,IT/Technical Lead,85.50,3,EN,06/30/26,IT Lead. Managing API configuration and developer access across technology teams.
